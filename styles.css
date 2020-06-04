@@ -10,11 +10,13 @@
 }
 
 body{
-    color:red;
+    color:orange;
     font-weight: bold;
     background-image: url("img/nota-img.jpeg");
     /*eviar el refresh*/
     overscroll-behavior-y: contain;
+    background-position: center !important;
+    background-size: cover !important;
 
     -webkit-user-select: none;
     -webkit-touch-callout: none;
