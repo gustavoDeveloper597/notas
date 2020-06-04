@@ -10,5 +10,7 @@
 }
 
 body{
+    color:black;
+    font-weight: bold;
     background-image: url("img/nota-img.jpeg");
 }

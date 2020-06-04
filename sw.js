@@ -2,8 +2,8 @@ console.log('service sw')
 
 
 // implementando estrategias de cache
-var STATIC='cache-estatico-v1';
-var DINAMIC='cache-dinamico-v1';
+var STATIC='cache-estatico-v2';
+var DINAMIC='cache-dinamico-v2';
 
 let app_shell_cacheStatic=[
     'https://code.jquery.com/jquery-3.4.1.slim.min.js',
