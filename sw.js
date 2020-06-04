@@ -1,13 +1,4 @@
 console.log('service sw')
-var offline = new Response(
-    `<p>No tienes internet</p>`,
-    {
-        headers: {
-            'Content-Type': 'text/html'
-        }
-    }
-);
-
 
 
 // implementando estrategias de cache
