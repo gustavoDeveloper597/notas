@@ -11,6 +11,7 @@ let app_shell_cacheStatic=[
     '//cdn.jsdelivr.net/npm/pouchdb@7.1.1/dist/pouchdb.min.js',
     'https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css',
     'https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js',
+    'img/nota-img.jpeg',
     'styles.css',
     'app/db.js',
     'app/app.js',

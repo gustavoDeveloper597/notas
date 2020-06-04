@@ -8,3 +8,7 @@
 .pull-right{
     float:right;
 }
+
+body{
+    background-image: url("img/nota-img.jpeg");
+}

@@ -23,7 +23,7 @@ $(document).ready(function () {
             db.put(nota).then(res => {
                 $('#seccion-nota').addClass('oculta');
                 $('#seccion-notas').removeClass('oculta');
-                alert('save');
+
             });
         } else {
             alert('Escribe algo en la nota')
