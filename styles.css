@@ -13,4 +13,10 @@ body{
     color:red;
     font-weight: bold;
     background-image: url("img/nota-img.jpeg");
+    /*eviar el refresh*/
+    overscroll-behavior-y: contain;
+
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-tap-highlight-color: transparent;
 }
