@@ -15,7 +15,6 @@ var STATIC='cache-estatico-v1';
 var DINAMIC='cache-dinamico-v1';
 
 let app_shell_cacheStatic=[
-    '/',
     'https://code.jquery.com/jquery-3.4.1.slim.min.js',
     'https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js',
     '//cdn.jsdelivr.net/npm/pouchdb@7.1.1/dist/pouchdb.min.js',
